@@ -7,5 +7,5 @@ Este repositório contém os seguintes diretórios:
 
 - **ProblemSolving:** Aqui você encontrará uma variedade de desafios de algoritmos que eu resolvi.
   
-- **PreparationJava:** Neste diretório, você encontrará os desafios realizados durante a preparação para o Teste de Certificação de Habilidades Java (Básico) oferecido pela plataforma.
+- **PreparationJava:** Neste diretório, você encontrará alguns dos desafios realizados durante a preparação para o Teste de Certificação de Habilidades Java (Básico) oferecido pela plataforma.
 
