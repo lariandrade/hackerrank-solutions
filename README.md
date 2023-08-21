@@ -9,3 +9,5 @@ Este repositório contém os seguintes diretórios:
   
 - **PreparationJava:** Neste diretório, você encontrará alguns dos desafios realizados durante a preparação para o Teste de Certificação de Habilidades Java (Básico) oferecido pela plataforma.
 
+- **SQL:** Neste diretório, você encontrará alguns dos desafios SQL realizados durante a preparação para o Teste de Certificação de Habilidades SQL (Básico) oferecido pela plataforma.
+
